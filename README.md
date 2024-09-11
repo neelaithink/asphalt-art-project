@@ -18,8 +18,10 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
-
+sketch;
+![my sketch](scetch.jpg)
+final;
+![my fianl image](final.png)
 ## Reflection
 
 1. Describe your project.
@@ -28,8 +30,8 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 2. What are two things about your project that you are proud of?
 
-   - 1. Im proud that I was able to make it. Im happy I was able to make the eyes by making my own method. I used the diagonal method I used to make the head to also make the eyes.
-   2. Im proud that I was able to decompose the parts of the logo. In the end I put all the parts (ex- right eye, left eye, head, and smile) into one thing called draw logo.
+   -  Im proud that I was able to make it. Im happy I was able to make the eyes by making my own method. I used the diagonal method I used to make the head to also make the eyes.
+   - Im proud that I was able to decompose the parts of the logo. In the end I put all the parts (ex- right eye, left eye, head, and smile) into one thing called draw logo.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
